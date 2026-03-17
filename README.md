@@ -1,6 +1,6 @@
 # DevOps-CI-CD
 
-1. Levantar el proyecto con:
+1.Levantar el proyecto con:
    docker compose up --build -d
 
 2.Aplicar migraciones pendientes:
